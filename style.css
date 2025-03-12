@@ -1,0 +1,59 @@
+
+div{
+    color: darkblue;
+    background-color: darkblue;
+    height: 1000px;
+}
+.sarlavha{
+    color: yellow;
+    
+    
+    text-align: center;
+}
+p{
+    text-align: center;
+    font-size:11px ;
+    color: white;
+    
+}
+.span{
+    color: green;
+}
+img{
+    height: 350px;
+    
+    font-weight: 100px;
+    width: 400px;
+    
+    
+}
+table{
+    border-collapse: collapse;
+    width: 1000px;
+}
+.aqator{
+    color: white;
+    background-color: blue;
+}
+.bqator{
+    color: white;
+    background-color: darkblue;
+}
+.nom{
+    margin-left: 550px;
+    color: white;
+    font-size: 10px;
+
+}
+.tugma{
+    color: black;
+    background-color: yellow;
+    border-radius: 40px;
+    margin-left: 550px;
+    height: 30px;
+    width: 150px;
+}
+.yoz{
+    width: 1000px;
+}
+
